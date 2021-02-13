@@ -394,6 +394,20 @@ export const Vuugo: Store = {
       url:
         'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/gigabyte-video-cards-GV-N306TEAGLE-OC-8GD.html',
     },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'gigabyte',
       model: 'gaming oc',
@@ -520,6 +534,20 @@ export const Vuugo: Store = {
       url:
         'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/msi-video-cards-G306TV2XC.html',
     },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'msi',
       model: 'gaming x trio',
@@ -702,6 +730,20 @@ export const Vuugo: Store = {
       url:
         'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/zotac-video-cards-ZT-A30700E-10P.html',
     },
+    // {
+    //   brand: 'zotac',
+    //   model: 'twin edge oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'zotac',
+    //   model: 'twin edge',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'zotac',
       model: 'trinity oc',

@@ -384,6 +384,20 @@ export const CanadaComputers: Store = {
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185087&language=en',
     },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'asus',
       model: 'dual oc',
@@ -405,6 +419,20 @@ export const CanadaComputers: Store = {
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185752&language=en',
     },
+    // {
+    //   brand: 'zotac',
+    //   model: 'twin edge oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'zotac',
+    //   model: 'twin edge',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'asus',
       model: 'strix oc',
@@ -426,6 +454,20 @@ export const CanadaComputers: Store = {
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185987&language=en',
     },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'gigabyte',
       model: 'eagle oc',

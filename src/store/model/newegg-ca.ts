@@ -553,6 +553,22 @@ export const NeweggCa: Store = {
       url:
         'https://www.newegg.ca/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-oc/p/N82E16814137612',
     },
+    // {
+    //   brand: 'msi',
+    //   itemNumber: TODO,
+    //   model: 'ventus 2x',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'msi',
+    //   itemNumber: TODO,
+    //   model: 'ventus 2x oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'asus',
       itemNumber: '14-126-474',
@@ -585,6 +601,22 @@ export const NeweggCa: Store = {
       url:
         'https://www.newegg.ca/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-8gd/p/N82E16814932379',
     },
+    // {
+    //   brand: 'gigabyte',
+    //   itemNumber: TODO,
+    //   model: 'eagle oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'gigabyte',
+    //   itemNumber: TODO,
+    //   model: 'eagle',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'zotac',
       itemNumber: '14-500-506',
@@ -601,6 +633,22 @@ export const NeweggCa: Store = {
       url:
         'https://www.newegg.ca/zotac-geforce-rtx-3060-ti-zt-a30610h-10m/p/N82E16814500507',
     },
+    // {
+    //   brand: 'zotac',
+    //   itemNumber: TODO,
+    //   model: 'twin edge',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'zotac',
+    //   itemNumber: TODO,
+    //   model: 'twin edge oc',
+    //   series: '3060ti',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'asus',
       model: 'dual',

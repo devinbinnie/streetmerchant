@@ -20,6 +20,20 @@ export const BestBuyCa: Store = {
       url:
         'https://www.bestbuy.ca/en-ca/product/google-nest-hello-wi-fi-video-doorbell-black-white/12222651',
     },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'msi',
       model: 'ventus 2x oc',
@@ -41,6 +55,20 @@ export const BestBuyCa: Store = {
       url:
         'https://www.bestbuy.ca/en-ca/product/zotac-geforce-rtx-3060-ti-twin-edge-oc-8gb-gddr6-video-card/15178452?intl=nosplash',
     },
+    // {
+    //   brand: 'zotac',
+    //   model: 'twin edge oc',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
+    // {
+    //   brand: 'zotac',
+    //   model: 'twin edge',
+    //   series: '3060',
+    //   url:
+    //     TODO,
+    // },
     {
       brand: 'evga',
       model: 'ftw3 ultra',

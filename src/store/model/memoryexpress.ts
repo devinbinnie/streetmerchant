@@ -33,6 +33,18 @@ export const MemoryExpress: Store = {
       series: '3060ti',
       url: 'https://www.memoryexpress.com/Products/MX00114970',
     },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x',
+    //   series: '3060',
+    //   url: TODO,
+    // },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x oc',
+    //   series: '3060ti',
+    //   url: TODO,
+    // },
     {
       brand: 'asus',
       model: 'dual oc',
@@ -69,6 +81,18 @@ export const MemoryExpress: Store = {
       series: '3060ti',
       url: 'https://www.memoryexpress.com/Products/MX00114926',
     },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle',
+    //   series: '3060',
+    //   url: TODO,
+    // },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle oc',
+    //   series: '3060',
+    //   url: TODO,
+    // },
     {
       brand: 'evga',
       model: 'ftw3 ultra',
