@@ -645,7 +645,7 @@ export const NeweggCa: Store = {
     //   brand: 'zotac',
     //   itemNumber: TODO,
     //   model: 'twin edge oc',
-    //   series: '3060ti',
+    //   series: '3060',
     //   url:
     //     TODO,
     // },
