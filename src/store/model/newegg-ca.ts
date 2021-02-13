@@ -386,14 +386,6 @@ export const NeweggCa: Store = {
         'https://www.newegg.ca/asus-geforce-rtx-3070-ko-rtx3070-o8g-gamin/p/N82E16814126466',
     },
     {
-      brand: 'zotac',
-      itemNumber: '14-500-501',
-      model: 'twin edge',
-      series: '3070',
-      url:
-        'https://www.newegg.ca/zotac-geforce-rtx-3070-zt-a30700e-10p/p/N82E16814500501',
-    },
-    {
       brand: 'gigabyte',
       itemNumber: '14-932-344',
       model: 'eagle',
@@ -416,14 +408,6 @@ export const NeweggCa: Store = {
       series: '3070',
       url:
         'https://www.newegg.ca/gigabyte-geforce-rtx-3070-gv-n3070vision-oc-8gd/p/N82E16814932360',
-    },
-    {
-      brand: 'zotac',
-      itemNumber: '14-500-505',
-      model: 'twin edge oc',
-      series: '3070',
-      url:
-        'https://www.newegg.ca/zotac-geforce-rtx-3070-zt-a30700h-10p/p/N82E16814500505',
     },
     {
       brand: 'pny',

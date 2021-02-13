@@ -77,32 +77,11 @@ export const CanadaComputers: Store = {
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184167&language=en',
     },
     {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3070',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183561&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3070',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185675&language=en',
-    },
-    {
       brand: 'msi',
       model: 'ventus 2x oc',
       series: '3070',
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183208&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge',
-      series: '3070',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183560&language=en',
     },
     {
       brand: 'asus',
