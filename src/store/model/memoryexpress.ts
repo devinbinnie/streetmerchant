@@ -293,12 +293,6 @@ export const MemoryExpress: Store = {
     },
     {
       brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3070',
-      url: 'https://www.memoryexpress.com/Products/MX00114407',
-    },
-    {
-      brand: 'gigabyte',
       model: 'gaming oc',
       series: '3070',
       url: 'https://www.memoryexpress.com/Products/MX00114405',

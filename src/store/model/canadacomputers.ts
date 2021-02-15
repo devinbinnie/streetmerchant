@@ -21,13 +21,6 @@ export const CanadaComputers: Store = {
         'https://www.canadacomputers.com/product_info.php?item_id=167320&cPath=27_1046_365&language=en',
     },
     {
-      brand: 'gigabyte',
-      model: 'eagle',
-      series: '3070',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183101&language=en',
-    },
-    {
       brand: 'evga',
       model: 'xc3 black',
       series: '3070',
@@ -103,13 +96,6 @@ export const CanadaComputers: Store = {
       series: '3070',
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183209&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3070',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183100&language=en',
     },
     {
       brand: 'evga',

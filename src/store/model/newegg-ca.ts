@@ -386,14 +386,6 @@ export const NeweggCa: Store = {
         'https://www.newegg.ca/asus-geforce-rtx-3070-ko-rtx3070-o8g-gamin/p/N82E16814126466',
     },
     {
-      brand: 'gigabyte',
-      itemNumber: '14-932-344',
-      model: 'eagle',
-      series: '3070',
-      url:
-        'https://www.newegg.ca/gigabyte-geforce-rtx-3070-gv-n3070eagle-8gd/p/N82E16814932344',
-    },
-    {
       brand: 'evga',
       itemNumber: '14-487-528',
       model: 'xc3 black',
@@ -440,14 +432,6 @@ export const NeweggCa: Store = {
       series: '3070',
       url:
         'https://www.newegg.ca/gigabyte-geforce-rtx-3070-gv-n3070aorus-m-8gd/p/N82E16814932359',
-    },
-    {
-      brand: 'gigabyte',
-      itemNumber: '14-932-343',
-      model: 'eagle oc',
-      series: '3070',
-      url:
-        'https://www.newegg.ca/gigabyte-geforce-rtx-3070-gv-n3070eagle-oc-8gd/p/N82E16814932343',
     },
     {
       brand: 'evga',
