@@ -513,13 +513,6 @@ export const Vuugo: Store = {
       url:
         'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/msi-video-cards-G306TGXT.html',
     },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3060ti',
-      url:
-        'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/msi-video-cards-G306TV2XC.html',
-    },
     // {
     //   brand: 'msi',
     //   model: 'ventus 2x',
@@ -547,13 +540,6 @@ export const Vuugo: Store = {
       series: '3070',
       url:
         'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/msi-video-cards-G3070SX8.html',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3070',
-      url:
-        'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/msi-video-cards-G3070V2XC.html',
     },
     {
       brand: 'msi',

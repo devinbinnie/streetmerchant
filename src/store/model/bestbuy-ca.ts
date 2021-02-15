@@ -35,13 +35,6 @@ export const BestBuyCa: Store = {
     //     TODO,
     // },
     {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3060ti',
-      url:
-        'https://www.bestbuy.ca/en-ca/product/msi-nvidia-geforce-rtx-3060-ti-ventus-2x-oc-8gb-gddr6-video-card/15178453?intl=nosplash',
-    },
-    {
       brand: 'nvidia',
       model: 'founders edition',
       series: '3060ti',

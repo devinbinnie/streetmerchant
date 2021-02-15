@@ -310,21 +310,6 @@ export const NeweggCa: Store = {
     },
     {
       brand: 'msi',
-      itemNumber: '14-137-602',
-      model: 'ventus 2x oc',
-      series: '3070',
-      url:
-        'https://www.newegg.ca/msi-geforce-rtx-3070-rtx-3070-ventus-2x-oc/p/N82E16814137602',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x',
-      series: '3070',
-      url:
-        'https://www.newegg.ca/msi-geforce-rtx-3070-rtx-3070-ventus-2x/p/N82E16814137605',
-    },
-    {
-      brand: 'msi',
       itemNumber: '14-137-601',
       model: 'ventus 3x oc',
       series: '3070',
@@ -528,14 +513,6 @@ export const NeweggCa: Store = {
       series: '3060ti',
       url:
         'https://www.newegg.ca/evga-geforce-rtx-3060-ti-08g-p5-3667-kr/p/N82E16814487537',
-    },
-    {
-      brand: 'msi',
-      itemNumber: '14-137-612',
-      model: 'ventus 2x oc',
-      series: '3060ti',
-      url:
-        'https://www.newegg.ca/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-oc/p/N82E16814137612',
     },
     // {
     //   brand: 'msi',

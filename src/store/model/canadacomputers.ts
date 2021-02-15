@@ -70,13 +70,6 @@ export const CanadaComputers: Store = {
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184167&language=en',
     },
     {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3070',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183208&language=en',
-    },
-    {
       brand: 'asus',
       model: 'tuf oc',
       series: '3070',
@@ -362,13 +355,6 @@ export const CanadaComputers: Store = {
       series: '3060ti',
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184759&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3060ti',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185087&language=en',
     },
     // {
     //   brand: 'msi',

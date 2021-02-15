@@ -27,12 +27,6 @@ export const MemoryExpress: Store = {
       series: '3060ti',
       url: 'https://www.memoryexpress.com/Products/MX00114969',
     },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3060ti',
-      url: 'https://www.memoryexpress.com/Products/MX00114970',
-    },
     // {
     //   brand: 'msi',
     //   model: 'ventus 2x',
@@ -308,12 +302,6 @@ export const MemoryExpress: Store = {
       model: 'gaming x trio',
       series: '3070',
       url: 'https://www.memoryexpress.com/Products/MX00114447',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3070',
-      url: 'https://www.memoryexpress.com/Products/MX00114448',
     },
     {
       brand: 'msi',
