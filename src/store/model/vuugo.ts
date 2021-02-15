@@ -424,20 +424,6 @@ export const Vuugo: Store = {
     },
     {
       brand: 'gigabyte',
-      model: 'eagle',
-      series: '3070',
-      url:
-        'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/gigabyte-video-cards-GV-N3070EAGLE-8GD.html',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3070',
-      url:
-        'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/gigabyte-video-cards-GV-N3070EAGLE-OC-8GD.html',
-    },
-    {
-      brand: 'gigabyte',
       model: 'gaming oc',
       series: '3070',
       url:
