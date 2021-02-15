@@ -702,20 +702,6 @@ export const Vuugo: Store = {
       url:
         'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/sapphire-video-cards-21304-01-20G.html',
     },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3070',
-      url:
-        'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/zotac-video-cards-ZT-A30700H-10P.html',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge',
-      series: '3070',
-      url:
-        'https://www.vuugo.com/computer-hardware/computer-parts/video-cards/zotac-video-cards-ZT-A30700E-10P.html',
-    },
     // {
     //   brand: 'zotac',
     //   model: 'twin edge oc',
